@@ -1,4 +1,4 @@
-alert('Hello world'); 
+alert('Hello world');
 
-let myName = 'Toby';
-document.write(myName);
+var favoriteFood = "pizza";
+document.write( favoriteFood);
